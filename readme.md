@@ -1,2 +1,2 @@
-git-demo²Ö¿âµÄËµÃ÷
+Description of git-demo repository 
 Hello, git
